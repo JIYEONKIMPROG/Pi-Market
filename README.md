@@ -1,16 +1,11 @@
 # :clapper:Pi-Market:clapper:
 ## _EwhaChain idea contest implementation_
 
-뱃지는 이런 식으로 넣으면 된답니다.
+## Stacks
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-출처: https://byul91oh.tistory.com/214 [개꼬 [: 개발하는 꼬바리]]
-출처: https://byul91oh.tistory.com/214 [개꼬 [: 개발하는 꼬바리]]
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 여기에 관련 기획 내용 간단 요약 부탁합니다.
 
