@@ -17,9 +17,7 @@
 - 대학별 굿즈
 - 설명 더 부탁드립니다.
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
+히히ㅣ힣....
 
 > 여기에는 약간
 > 조금 저희 마켓 플레이스만의 슬로건들어가면 좋을 거 같아요
@@ -31,7 +29,7 @@ As [John Gruber] writes on the [Markdown site][df1]
 
 프로젝트에 기여한 사람들.... :
 
-- 김지연 - frontend, smartcontract.... [github] https://jiyeonkimprog.github.io/Pi-Market/
+- 김지연 - frontend, smartcontract.... [github] https://github.com/JIYEONKIMPROG
 - 이런식으로....
 
 
