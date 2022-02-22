@@ -1,0 +1,143 @@
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.nav_icon {
+    display: flex;
+    flex: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 70px;
+}
+
+.nav_btn {
+    border: none;
+    background-color: white;
+    font-size: 20px;
+    margin: 10px;
+}
+
+#nav_input {
+    background-color: lightgray;
+    border: none;
+    width: 50%;
+    height: 50px;
+    font-size: 20px;
+}
+
+#icon {
+    padding: 30px;
+    font-size: 40px;
+    color: rgb(90, 89, 89);
+    font-weight: bold;
+    text-shadow: 1px 1px gray;
+}
+
+#example {
+    width: 30%;
+    margin-right: 0px;
+}
+
+#slogan {
+    display: flex;
+    flex: row;
+    padding-top: 50px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 70px;
+}
+
+#trending_auction h3 {
+    padding-left: 50px;
+}
+
+.nft_items img {
+    width: 100%;
+}
+
+.nft_items {
+    margin-top: 20px;
+    width: 30%;
+}
+
+.nft_content {
+    margin: 0 5px;
+    padding: 0 20px;
+    background-color: darkgray;
+}
+
+.user {
+    display: flex;
+    flex: row;
+    justify-content: space-between;
+}
+
+.price_likes {
+    display: flex;
+    flex: row;
+    justify-content: space-between;
+}
+
+footer {
+    background-color: darkgray;
+    height: 100px;
+    display: flex;
+    flex: row;
+    align-items: center;
+}
+
+.footer_btn {
+    border: none;
+    background-color: darkgray;
+    font-size: 20px;
+    margin: 10px;
+}
+
+#nft_list_set {
+    justify-content: space-around;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 100px;
+}
+
+@media all and (max-width: 1060px) {
+    .nav_icon {
+        display: block;
+        margin: 0 70px;
+        margin: 20px;
+    }
+    #nav_input {
+        width: 100%;
+    }
+    #nav_content {
+        display: block;
+        text-align: center;
+    }
+}
+
+@media all and (min-width: 600px) and (max-width: 940px) {
+    #slogan {
+        flex-direction: column-reverse;
+    }
+    #slogan img {
+        width: 90%;
+    }
+    .nft_items {
+        width: 45%;
+    }
+}
+
+@media all and (max-width: 600px) {
+    #slogan {
+        flex-direction: column-reverse;
+    }
+    #slogan img {
+        width: 90%;
+    }
+    .nft_items {
+        width: 95%;
+    }
+}
