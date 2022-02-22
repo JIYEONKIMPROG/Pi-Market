@@ -31,11 +31,9 @@ As [John Gruber] writes on the [Markdown site][df1]
 
 프로젝트에 기여한 사람들.... :
 
-- 김지연 - frontend, smartcontract....
+- 김지연 - frontend, smartcontract.... [github] https://jiyeonkimprog.github.io/Pi-Market/
 - 이런식으로....
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
 
 ## URL
 
