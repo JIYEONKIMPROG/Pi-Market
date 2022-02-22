@@ -1,4 +1,4 @@
-# Pi-Market
+# :clapper:Pi-Market:clapper:
 ## _EwhaChain idea contest implementation_
 
 뱃지는 이런 식으로 넣으면 된답니다.
@@ -29,8 +29,8 @@
 
 프로젝트에 기여한 사람들.... :
 
-- 김지연 - frontend, smartcontract.... [github] https://github.com/JIYEONKIMPROG
-- 이런식으로....
+- :girl: 김지연 - frontend, smartcontract.... [github] https://github.com/JIYEONKIMPROG
+- :girl: 이런식으로....
 
 
 ## URL
