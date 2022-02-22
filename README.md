@@ -1,7 +1,6 @@
-# Pi-Market
-<h1>EwhaChain idea contest implementation - Pi Market</h1> <br>
-<h2>주소 : https://jiyeonkimprog.github.io/Pi-Market/ <h2>  <br>
- Productor : <br>
+EwhaChain idea contest implementation - #Pi Market <br>
+주소 : https://jiyeonkimprog.github.io/Pi-Market/   <br>
+Productor : <br>
    장지선/JANG JISEON <br><br>
 Developer : <br>
    김지연/KIM JIYEON (JIYEONKIMPROG) - frontend <br>
