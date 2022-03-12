@@ -16,9 +16,15 @@ function SloganPart() {
         alignItems:'center',
         justifyContent : 'space-between'
     }
-    const slogan_img={
+    const slogan_imgPc={
         marginBottom :'-55px',
-        float :'right',
+        width:'500px',
+        height : '400px'
+    }
+    const slogan_imgMobile={
+        zIndex :'-1',
+        marginTop :'-170px',
+        marginBottom :'-55px',
         width:'500px',
         height : '400px'
     }
@@ -41,7 +47,7 @@ function SloganPart() {
           
           </div>
 
-          <img style={slogan_img as React.CSSProperties} src={wave_img}/>
+          <img style={IsPc?slogan_imgPc : slogan_imgMobile as React.CSSProperties} src={wave_img}/>
       </div>
       <p>Trending Auction</p>
       <hr/>

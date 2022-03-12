@@ -38,4 +38,22 @@
         flex-direction: column;
         margin: 5px 10px;
     }
+    .Header button {
+        margin: 0 10px 0 10px;
+        width: 200px;
+    }
+    .Header_img {
+        margin-right: 0;
+        margin-left: -80%;
+    }
+    .Header input {
+        margin-left: 0px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .Header button {
+        margin: 0 10px 0 10px;
+        width: 100px;
+    }
 }

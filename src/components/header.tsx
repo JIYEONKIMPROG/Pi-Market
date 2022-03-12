@@ -4,21 +4,27 @@ import './header.css';
 import { NonceAccount } from '@solana/web3.js';
 import Connect2Phantom from './Connect2Phantom';
 import { useMediaQuery } from 'react-responsive';
+import { findByLabelText } from '@testing-library/react';
 function Header() {
 
   const buttonsPc={
     display:'flex',
-    flex: 'row'
+    flex: 'row',
+    alignItems: 'center'
   }
   const buttonsMobile={
-    marginTop:'20px'
+    marginTop:'20px',
+    display:'flex',
+    flexDirection :'row'
   }
+
   const IsPc = useMediaQuery({
     query : "(min-width : 1024px)"
 })
   return (
     <div className="Header">
-        <img className="Header_img" src={pi_logo} alt='React' />  
+        <img className="Header_img" src={pi_logo} alt='React'  />  
+ 
         <input/>
         <div style={IsPc? buttonsPc:buttonsMobile as React.CSSProperties}>
         <button>Explore</button>

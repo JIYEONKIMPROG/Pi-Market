@@ -78,7 +78,7 @@ const Connect2Phantom: FC = () => {
         textShadow : 'none',
         width:'300px',
         height:'50px',
-        
+        boxShadow:'5px 5px 5px gray'
         
       }
       const walletButtonMobile={
