@@ -19,7 +19,7 @@
 - 설명 더 부탁드립니다.
 
 
-> Paint Us wither Your NFT
+> Paint Us wither Your NFT! 
 > Pi-Market is an NFT market where you can mint and freely purchase NFT works related to the school you belong to. Sell and purchase any works of art, including photos, pictures, videos, music, etc. from your beloved school.
 
 
