@@ -18,11 +18,10 @@
 - 대학별 굿즈
 - 설명 더 부탁드립니다.
 
-히히ㅣ힣....
 
-> 여기에는 약간
-> 조금 저희 마켓 플레이스만의 슬로건들어가면 좋을 거 같아요
-> ...더 추가해주세요
+> Paint Us wither Your NFT
+> Pi-Market is an NFT market where you can mint and freely purchase NFT works related to the school you belong to. Sell and purchase any works of art, including photos, pictures, videos, music, etc. from your beloved school.
+
 
 
 
@@ -31,7 +30,9 @@
 프로젝트에 기여한 사람들.... :
 
 - :girl: 김지연 - frontend, smartcontract.... [github] https://github.com/JIYEONKIMPROG
-- :girl: 이런식으로....
+- :girl: 김하은 - backend, smartcontract....
+- :girl: 윤수지 - backend, smartcontract....
+- :girl: 장지선 - PM
 
 
 ## URL
